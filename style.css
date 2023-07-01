@@ -1,0 +1,46 @@
+body {
+  background-color: rgba(102, 133, 112, 0.805);
+}
+p {
+  font-size: 80px;
+  font-weight: 500;
+  font-family: "Lucida Sans", "Lucida Sans Regular";
+  margin-top: 10px;
+  margin-left: 28px;
+  text-shadow: 2px 2px 8px rgb(192, 125, 125);
+}
+#text {
+  border: 3px solid black;
+  width: 1200px;
+  height: 280px;
+  margin-top: 150px;
+  margin-right: 150px;
+  margin-left: 165px;
+  border-radius: 7px;
+  /* background-color: rgba(87, 179, 142, 0.131); */
+  background-image: linear-gradient(
+    to right,
+    rgba(54, 127, 173, 0.777),
+    rgba(206, 156, 192, 0.446)
+  );
+}
+button {
+  margin-left: 1306px;
+  margin-top: 15px;
+  font-size: 25px;
+  color: rgb(3, 43, 30);
+}
+#Quote,
+#authore {
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  margin-top: 80px;
+}
+img {
+  mix-blend-mode: multiply;
+  width: 50px;
+  height: 50px;
+  margin-left: 180px;
+  margin-top: 15px;
+}
